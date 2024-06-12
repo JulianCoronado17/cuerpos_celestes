@@ -1,0 +1,5 @@
+Estrellas,E01,Esfera de gas que emite luz y calor por fusion nuclear
+Planetas,P02,Cuerpos que orbitan una estrella, con forma esférica y órbita despejada
+Satelites,S03,Objetos que orbitan planetas; pueden ser naturales o artificiales
+Meteoritos,M04,Fragmento de roca o metal que alcanza la superficie terrestre desde el espacion
+Cometas,C05,Cuerpos de hielo  y polvo que orbitan  el sol y desarrollan  una coma  y cola al acercase a él
